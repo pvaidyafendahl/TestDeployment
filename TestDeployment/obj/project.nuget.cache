@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WRAEFQ/hqBUT1J6a1bBgcOgMYkXu7WxfrGHFTtTxUKFGUOCYhx2YT/QbEE3MYkVOBTaEjnBKnUHgBQKK7pCgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pushkar\\Desktop\\K8\\CI CD\\With Gaurav\\TestDeployment\\TestDeployment\\TestDeployment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pushkar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
